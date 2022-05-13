@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Test_VK
+//  VK_my
 //
-//  Created by Кирилл Терновский on 01.05.2022.
+//  Created by Кирилл Терновский on 04.05.2022.
 //
 
 import UIKit
