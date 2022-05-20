@@ -18,8 +18,11 @@ class LoginController: UIViewController {
         
         
     }
-    
+   
 
+    @IBAction func GroupButton(_ sender: Any) {
+        performSegue(withIdentifier: "Group", sender: nil)
+    }
     @IBAction func tapButton(_ sender: Any) {
         
         guard let login = loginTextField.text,

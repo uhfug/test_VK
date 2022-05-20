@@ -16,6 +16,7 @@ class TabBarController: UITabBarController {
     }
     
     @IBOutlet weak var Friends: UITabBar!
+    @IBOutlet weak var Group: UITabBar!
     
     /*
     // MARK: - Navigation
